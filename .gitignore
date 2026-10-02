@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+limitless_trade_state.json
+*.png
+.venv/
+venv/
